@@ -1,0 +1,49 @@
+body{
+	padding: 30px;
+}
+.block{
+	background: url("../img/images.jpg"); 
+
+
+	height: 300px;
+	border-radius: 30px;
+	box-shadow: 0 0 10px black;
+	background-color: pink;
+}
+.explame-text{
+	
+	border: 1px solid black;
+	font-size: 25px;
+	background-image: url(https://www.graycell.ru/picture/big/galochka.jpg);
+}
+h1{
+	color: yellow;
+	background-color: black;
+	text-align: center; 
+	border: 3px solid white;
+	border-radius: 20px;
+	padding: 45px;
+	margin-left: 90px;
+}
+.gradient{
+	height: 300px;
+	border-radius: 30px;
+	box-shadow: 0 0 10px black;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f756a6+2,db69d7+47,4eedea+100 */
+background: rgb(247,86,166); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(247,86,166,1) 2%, rgba(219,105,215,1) 47%, rgba(78,237,234,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(247,86,166,1) 2%,rgba(219,105,215,1) 47%,rgba(78,237,234,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(247,86,166,1) 2%,rgba(219,105,215,1) 47%,rgba(78,237,234,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f756a6', endColorstr='#4eedea',GradientType=0 ); /* IE6-9 */
+
+}	
+.explame-ul{
+	padding-left: 60px;
+	padding-top: 20px;
+	font-size: 40px
+}
+.explame-li{
+	font-size: 30px
+}
+
+
